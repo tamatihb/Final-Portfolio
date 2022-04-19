@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.10390fc8.chunk.css",
+    "main.js": "/static/js/main.9a2d5ef8.chunk.js",
+    "main.js.map": "/static/js/main.9a2d5ef8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4c381e45.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4c381e45.js.map",
+    "static/js/2.16cbb229.chunk.js": "/static/js/2.16cbb229.chunk.js",
+    "static/js/2.16cbb229.chunk.js.map": "/static/js/2.16cbb229.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.880da093b0cc95f39646b1e906fd811c.js": "/precache-manifest.880da093b0cc95f39646b1e906fd811c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.10390fc8.chunk.css.map": "/static/css/main.10390fc8.chunk.css.map",
+    "static/js/2.16cbb229.chunk.js.LICENSE.txt": "/static/js/2.16cbb229.chunk.js.LICENSE.txt",
+    "static/js/main.9a2d5ef8.chunk.js.LICENSE.txt": "/static/js/main.9a2d5ef8.chunk.js.LICENSE.txt",
+    "static/media/ChefsHat.png": "/static/media/ChefsHat.f401fb1f.png",
+    "static/media/Integrated.svg": "/static/media/Integrated.eb64d1aa.svg",
+    "static/media/Next.png": "/static/media/Next.7f0c97bf.png",
+    "static/media/Succes.png": "/static/media/Succes.0383e861.png",
+    "static/media/video.mp4": "/static/media/video.9b1e02cf.mp4",
+    "static/media/website1.png": "/static/media/website1.2c869bcc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c381e45.js",
+    "static/js/2.16cbb229.chunk.js",
+    "static/css/main.10390fc8.chunk.css",
+    "static/js/main.9a2d5ef8.chunk.js"
+  ]
+}
